@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="left-up" width="50" height="50" tilewidth="16" tileheight="16" nextobjectid="1">
+ <tileset firstgid="1" name="tiles" tilewidth="16" tileheight="16" tilecount="104" columns="8">
+  <image source="tiles.png" width="128" height="208"/>
+  <tile id="44">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="61">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="72">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="73">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="74">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="80">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="81">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="82">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="88">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="89">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+  <tile id="90">
+   <properties>
+    <property name="blocked" value=""/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="Tile Layer 1" width="50" height="50">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA+3XuQrCQBQF0CioKKiFW+FWqZX5ASWNNq7gCq7//xleC8EimBkz5r0ZX3G6IXMvYTbf8zxfiD/Vhg50GWSJk6sHfRgwyG5DLs5GMI4YU4Eqg6yfTGAaMaYJLQZZk5KCNIMcceWhwCCH7VTW+i+ZOv9U1vpTBrKQM9wj6XOmCCUoE/47E2pQhwaDLEK4huv7Qpfc44WgZWovmcEcFkS5TO0lG9jCzlAPqj3uBGe4JDyvEC5ZwgrWDLLEsYcDHAnmHob49ltXuMHd8h6Uwnpw7BJ1B7Clh8odILCgh6rgDXUWIeIKQlBnetF5J3HuoftO4tpDl6s9XOpCnUfY7QGELO4hECcAAA==
+  </data>
+ </layer>
+</map>
